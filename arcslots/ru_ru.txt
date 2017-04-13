@@ -16,7 +16,7 @@
 			"Description": "Подробнее:",
 			"ChooseSetting": "Choose setting",
 			"FreeSpin": "Свободный процент выпадения:",
-			"Add": "Добвать",
+			"Add": "Добавить",
 			"SlotConfig": "ARITZ Slot(lang MK) конфигурационное меню"
 		},
 		"Time": {
